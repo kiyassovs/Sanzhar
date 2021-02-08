@@ -1,0 +1,2 @@
+# Sanzhar
+midterm group project
